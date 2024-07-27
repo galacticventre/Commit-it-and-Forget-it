@@ -21,12 +21,6 @@ document.addEventListener('DOMContentLoaded', () => {
         return plan;
     }
 
-    function showCurrentStarDate() {
-        // Display the current star date
-        const starDate = new Date().toISOString();
-        console.log(`Current star date: ${starDate}`);
-    }
-
     function exchangeCurrency(amount, rate) {
         // Convert currency from one unit to another
         const total = amount * rate;

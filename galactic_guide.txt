@@ -1,0 +1,9 @@
+### Galactic Guide ###
+This guide will assist you in navigating the Commit-it-and-Forget-it repository. 
+
+Quote of the day:
+"Space is big. Really big. You just won’t believe how vastly, hugely, mind-bogglingly big it is."
+
+Explore every file, directory, comment, and commit. Sometimes, the most significant improvements are hidden in plain sight.
+
+Good luck, and may your code be bug-free!

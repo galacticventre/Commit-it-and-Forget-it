@@ -39,7 +39,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
         const facts = [
             "The Milky Way galaxy is about 100,000 light-years in diameter.",
             "There are more stars in the universe than grains of sand on Earth.",
-            "A day on Venus is longer than a year on Venus."
+            "A day on Venus is longer than a year on Venus.",
+            "Putting a secret in a GitHub commit isn't such a H1GHLY-1NPR0B4BL3-3V3NT"
         ];
         const randomFact = facts[Math.floor(Math.random() * facts.length)];
         console.log(`Random Space Fact: ${randomFact}`);
@@ -50,6 +51,4 @@ document.addEventListener('DOMContentLoaded', (event) => {
     calculateTravelTime(1000, 5);
     generateTravelPlan("Betelgeuse");
     displayStarDate();
-    convertCurrency(100, 1.2);
-    displayRandomFact();
-});
+ 
